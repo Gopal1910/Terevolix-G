@@ -1,74 +1,39 @@
-# task-1
+# ⏰ Digital Clock Website
 
-# 🌐 Modern Landing Page Website (HTML & CSS)
-
-## 📌 Project Overview
-
-This project is a **responsive and visually appealing landing page** built entirely with **HTML5** and **CSS3** — without using any JavaScript.
-It is designed to serve as a product, service, or portfolio homepage with a clean structure, modern UI, and smooth user experience.
+A modern and visually appealing **Digital Clock Web Application** that displays the current time in real-time along with day indicators and theme switching functionality. The project focuses on clean UI, smooth functionality, and user-friendly interaction.
 
 ---
 
-## 🚀 Features Implemented
+## 🌟 Overview
 
-### 🎨 Front-End Design:
+This project is designed to provide users with a stylish digital clock directly in their browser. It highlights the current day of the week, displays the time in **HH:MM:SS format**, supports **AM/PM mode**, and allows users to switch between **light and dark themes** for a personalized experience.
 
-* 🏠 **Hero Section:** Engaging headline, subheadline, and call-to-action button to grab user attention.
-* 📊 **Features / Services Section:** Highlight key features or services with clear layouts and visuals.
-* 👤 **About Section:** Brief introduction about the brand, company, or product.
-* 📸 **Image / Showcase Section:** Display product images or highlights in a structured design.
-* 📬 **Contact / Newsletter Section:** Form or information for user inquiries or subscriptions.
-* 🦶 **Footer Section:** Social media links, navigation, and copyright details.
+---
 
-### ✨ Extra Enhancements:
+## 🚀 Features
 
-* 📱 **Fully Responsive:** Adapts seamlessly to desktops, tablets, and mobile devices.
-* 🌈 **Modern UI:** Minimalist, clean, and professional look with attractive color schemes.
-* 🧩 **Reusable Components:** Clean and semantic HTML structure for scalability.
-* 💫 **Advanced CSS Styling:** Includes flexbox/grid layouts, hover effects, smooth transitions, and typography enhancements.
+- ✔️ **Live Real-Time Clock**
+  - Automatically updates every second
+  - Displays Hours, Minutes, Seconds
+
+- ✔️ **Day Indicator**
+  - Highlights the current day (MON–SUN)
+
+- ✔️ **12-Hour Format with AM/PM**
+
+- ✔️ **Theme Switching**
+  - Toggle between Light Mode & Dark Mode
+
+- ✔️ **Responsive Design**
+  - Works smoothly on Desktop, Tablet, and Mobile devices
+
+- ✔️ **Attractive UI**
+  - Minimal, modern, and elegant interface
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5** – Semantic and structured page layout
-* **CSS3** – Styling, responsive layouts, animations, and visual effects
-
----
-
-## 📂 Project Structure
-
-```
-📁 Landing-Page/
-│
-├── 📄 index.html     # Main landing page structure
-├── 📄 style.css      # All styling, layout, and animations
-└── 📄 README.md      # Project documentation (this file)
-```
-
----
-
-## 🧪 How to Run the Project
-
-1. Clone or download this repository.
-2. Open `index.html` in any modern web browser.
-3. Explore the responsive landing page and its sections.
-
----
-
-## 📚 What We Did
-
-* Built a **complete landing page** using only **HTML and CSS** — no JavaScript required.
-* Focused on **responsive design** and **clean UI/UX** for a professional appearance.
-* Applied **modern CSS techniques** like flexbox, grid, transitions, and hover effects.
-* Structured the codebase to be **scalable, readable, and easily maintainable**.
-
----
-
-## 🌟 Future Enhancements (Optional)
-
-* 🔁 Add **JavaScript interactivity** like smooth scrolling or animations.
-* 📬 Connect the **contact form** to a backend service or email API.
-* 🖼️ Add a **carousel or hero slideshow** for a more dynamic appearance.
-
-
+- **HTML5** → Structure of the webpage  
+- **CSS3** → Styling, layout, animations, theme design  
+- **JavaScript** → Time functionality & dynamic updates
